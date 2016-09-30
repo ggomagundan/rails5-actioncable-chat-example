@@ -8,6 +8,7 @@ And ``Bootstrap4``, ``mysql``, ``redis``
 
 ## Files
 
+- config/initializers/utf8mb4.rb ( For utf8mb4 Indexing)
 - app/views/chats/*
 - app/assets/javascripts/
  - cable.js
